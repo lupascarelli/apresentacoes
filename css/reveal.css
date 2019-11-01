@@ -21,8 +21,8 @@ body {
   position: relative;
   line-height: 1;
   margin: 0;
-  background-color: #fff;
-  color: #000; }
+  background-color: rgb(34, 141, 70);
+  color: rgb(44, 22, 22); }
 
 /*********************************************
  * VIEW FRAGMENTS
