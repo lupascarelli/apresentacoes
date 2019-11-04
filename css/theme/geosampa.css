@@ -48,7 +48,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #068587;
+  color: #eee;
   font-family: "Roboto", sans-serif;
   font-weight: bold;
   line-height: 1.2;
@@ -58,13 +58,13 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 3.77em; }
+  font-size: 1.8em; }
 
 .reveal h2 {
-  font-size: 2.11em; }
+  font-size: 1.3em; }
 
 .reveal h3 {
-  font-size: 1.55em; }
+  font-size: 1.1em; }
 
 .reveal h4 {
   font-size: 1em; }
@@ -279,8 +279,14 @@ body {
   font-weight: 300;
   text-shadow: 1px 1px #112F41; }
 
-.reveal h1,
-.reveal h2,
+.reveal h1 {
+  color: #068587; }
+
+.reveal h2 {
+  text-align: left;
+  background: url("../../images/detalhe-recortado.png") left top no-repeat;
+  padding-left: 141px; }
+
 .reveal h3,
 .reveal h4,
 .reveal h5,
@@ -294,3 +300,24 @@ body {
 
 .reveal small code {
   vertical-align: baseline; }
+
+.reveal section img {
+  margin: 15px 0px;
+  background: #112F41;
+  border: 4px solid #eee;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+
+.reveal section img.plain {
+  border: 0;
+  box-shadow: none;
+  box-shadow: none; }
+
+.reveal section img.logo-brasao {
+  margin: -30px 0px;
+  border: 0;
+  box-shadow: none;
+  box-shadow: none;
+  flex: 1; }
+
+.reveal section div.logos_containner {
+  display: flex; }
