@@ -321,3 +321,6 @@ body {
 
 .reveal section div.logos_containner {
   display: flex; }
+
+.reveal section div.flex_containner {
+  display: flex; }
