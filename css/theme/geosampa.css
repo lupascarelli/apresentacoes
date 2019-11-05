@@ -330,4 +330,8 @@ body {
   font-size: 0.7em; }
 
 .reveal i {
-  color: #ED553B; }
+  color: #ED553B;
+  font-size: 3rem; }
+
+.reveal i.em {
+  font-size: 3rem; }
