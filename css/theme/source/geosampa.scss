@@ -72,11 +72,12 @@ $selectionColor: #fff;
 
 .reveal p {
     font-weight: 300;
-    text-shadow: 1px 1px $fundo;
+    text-shadow: 1px 1px 2px $verde-claro;
 }
 
 .reveal h1 {
     color: $verde-escuro;
+    text-shadow: 1px 1px 3px white;
 }
 .reveal h2 {
     text-align: left;
@@ -130,3 +131,10 @@ $selectionColor: #fff;
     display: flex;
 }
 
+.reveal div ul li{
+    font-size: 0.7em;
+}
+
+.reveal i {
+    color: $vermelho;
+}

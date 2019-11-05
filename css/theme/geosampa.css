@@ -277,10 +277,11 @@ body {
 
 .reveal p {
   font-weight: 300;
-  text-shadow: 1px 1px #112F41; }
+  text-shadow: 1px 1px 2px #4FB99F; }
 
 .reveal h1 {
-  color: #068587; }
+  color: #068587;
+  text-shadow: 1px 1px 3px white; }
 
 .reveal h2 {
   text-align: left;
@@ -324,3 +325,9 @@ body {
 
 .reveal section div.flex_containner {
   display: flex; }
+
+.reveal div ul li {
+  font-size: 0.7em; }
+
+.reveal i {
+  color: #ED553B; }
