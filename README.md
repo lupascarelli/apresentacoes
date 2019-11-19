@@ -14,4 +14,8 @@ Optamos por criar as apresentações por aqui por alguns motivos:
 
 O arquivo demo-geosampa.html tem boas dicas de como criar uma apresentação se já conhece HTML. O site e o repositório do [Reveal.js](http://revealjs.com/) também é uma boa fonte. 
 
- 
+## Apresentações arquivadas
+
+[Apresentação feita no Fórum GeoConnect em Novembro de 2019](https://geoinfo-smdu.github.io/apresentacoes/geosampa-geoconnectplus-nov-2019.html)
+
+[Apresentação para o Departamento de Saúde Ambiental Faculdade de Saúde Pública Universidade de São Paulo](https://geoinfo-smdu.github.io/apresentacoes/geosampa-fsp-usp-nov-2019.html)
