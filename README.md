@@ -19,3 +19,6 @@ O arquivo demo-geosampa.html tem boas dicas de como criar uma apresentação se 
 [Apresentação feita no Fórum GeoConnect em Novembro de 2019](https://geoinfo-smdu.github.io/apresentacoes/geosampa-geoconnectplus-nov-2019.html)
 
 [Apresentação para o Departamento de Saúde Ambiental Faculdade de Saúde Pública Universidade de São Paulo](https://geoinfo-smdu.github.io/apresentacoes/geosampa-fsp-usp-nov-2019.html)
+
+[Apresentação na São Paulo TechWeek em novembro de 2019](https://geoinfo-smdu.github.io/apresentacoes/geosampa-techweek-nov-2019.html)
+
