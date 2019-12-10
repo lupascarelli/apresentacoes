@@ -22,3 +22,5 @@ O arquivo demo-geosampa.html tem boas dicas de como criar uma apresentação se 
 
 [Apresentação na São Paulo TechWeek em novembro de 2019](https://geoinfo-smdu.github.io/apresentacoes/geosampa-techweek-nov-2019.html)
 
+[Apresentação interna de planejamento de infraestrutura de acervo](https://geoinfo-smdu.github.io/apresentacoes/geoinfo-acervo-2020.html)
+
